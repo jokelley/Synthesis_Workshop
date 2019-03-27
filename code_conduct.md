@@ -8,7 +8,7 @@ Harassment of others by any participant will not be tolerated. Unacceptable trea
 
 People wishing to report a violation of this code of conduct should contact our Safety Officer, Joanna Kelley. Incidents of inappropriate and uncivil behavior are taken extremely seriously. Confidentiality will be maintained unless disclosure is legally required.
 
-The meeting organizers and members of the Steering Committee reserve the right to enforce this code of conduct in any manner deemed appropriate.  Anyone violating the code of conduct may be: (a) asked to stop, (b) expelled from the workshop (without refund), and/or (d) prohibited from attending future events. Establishing and enforcing this code of conduct is intended to prevent incidents of harassment, discrimination, and violence, and to maintain a high quality of scientific discourse.
+The meeting organizers and members of the Steering Committee reserve the right to enforce this code of conduct in any manner deemed appropriate.  Anyone violating the code of conduct may be: (a) asked to stop, (b) expelled from the workshop (without refund), and/or (c) prohibited from attending future events. Establishing and enforcing this code of conduct is intended to prevent incidents of harassment, discrimination, and violence, and to maintain a high quality of scientific discourse.
 
 ###  2. Policy on liability
 
